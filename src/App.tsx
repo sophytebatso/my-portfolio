@@ -1,13 +1,13 @@
-
+import React from 'react';
+import Navbar from './assets/components/navbar';  
 
 function App() {
 
 
   return (
     <>
-      <h1 className="">
-    Hello world!
-  </h1> 
+      <Navbar />
+ 
     </>
   )
 }
