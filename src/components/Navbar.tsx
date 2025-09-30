@@ -27,9 +27,9 @@ function Navbar() {
   };
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-gradient-to-r from-[#1d2f6f] via-[#004643] to-[#064789] p-4 shadow-md">
+    <nav className="fixed top-0 left-0 right-0 z-50 bg-gradient-to-r from-[#080808] via-[#8d99ae] to-[#080808] p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white text-xl font-bold">Mahlathini Tebatso</div>
+        <div className="text-white font-bold">Mahlathini Tebatso</div>
         <ul className="flex space-x-6">
           <li>
             <button

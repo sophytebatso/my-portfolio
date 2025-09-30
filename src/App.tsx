@@ -16,7 +16,7 @@ function App() {
         <Route path="/about" element={<div className="pt-20"><About /></div>} />
       </Routes>
 
-      <footer className="bg-gray-800 text-white py-4 mt-10">
+      <footer className="bg-[#043844] text-[#ffffff] py-4 mt-10">
         <div className="container mx-auto text-center">
           &copy; {new Date().getFullYear()} Mahlathini Tebatso. All rights reserved.
         </div>
